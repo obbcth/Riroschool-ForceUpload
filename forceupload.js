@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  리로스쿨의 파일 첨부 금지를 우회하는 스크립트입니다.
 // @author       Taehee Choi
-// @match        https://bugil.riroschool.kr/
+// @match        https://*.riroschool.kr/*
 // @grant        none
 // ==/UserScript==
 

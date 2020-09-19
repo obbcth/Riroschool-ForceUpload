@@ -4,6 +4,8 @@
 // @version      0.2
 // @description  리로스쿨의 파일 첨부 금지를 우회하는 스크립트입니다.
 // @author       Taehee Choi
+// @homepageURL  https://github.com/obbcth/Riroschool-ForceUpload
+// @downloadURL  https://raw.githubusercontent.com/obbcth/Riroschool-ForceUpload/master/forceupload.user.js
 // @match        https://*.riroschool.kr/*
 // @grant        none
 // ==/UserScript==

@@ -13,5 +13,5 @@
 Safari (iOS) - 준비중
 
 1. Tampermonkey 설치
-1. [여기](https://github.com/obbcth/Riroschool-ForceUpload/blob/master/forceupload.js)를 눌러 설치
+1. [여기](https://github.com/obbcth/Riroschool-ForceUpload/blob/master/forceupload.user.js)를 눌러 설치
 1. PROFIT!
